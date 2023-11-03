@@ -2,7 +2,7 @@
 
 ## Talk: "Theory, Practice and Future of LLMs" (Transformers Explained)
 
-![One AI Model to Rule Them All: Transformers]("./one_ai_model_to_rule_transformers_20231103.jpg")
+![One AI Model to Rule Them All: Transformers]("one_ai_model_to_rule_transformers_20231103.jpg")
 "One AI Model to Rule Them All" - J.R.R. Transformer
 
 * Jon Chun
