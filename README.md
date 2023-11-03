@@ -34,7 +34,7 @@ A new AI Computing Paradigm is evolving around an Large Language Models (LLMs). 
 
 The slides and links below are from a talk given for CS faculty and students at Denison University on November 2, 2023 titled "Theory, Practice and Future of LLMs". In our original Kenyon College "AI for the Humanities" course, we would have built a foundation before attempting to explain Transformers. To minimize issues regarding the diverse backgrounds of our audience and economize on time, the talk focuses on building up a foundation of universal principles before going into details of both the architecture and operation of Transformer models (esp regrading details like multiple self-attention and cross-attention heads)
 
-<a href="./Theory_Practice_and_Future_of_LLMs_20231102.pdf">Slide Deck in PDF Format</a>
+<a href="./Theory_Practice_and_Future_of_LLMs_20231102.pdf"><b>Slide Deck in PDF Format</b></a>
 
 * Slide 7: <a href="https://platform.openai.com/playground">Open AI Playground (Subscription)</a>
 * Slide 11: <a href="https://seeing-theory.brown.edu/bayesian-inference/index.html#section1">Seeing Theory: Probability Distributions & Bayesian Inference</a>
