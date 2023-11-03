@@ -2,6 +2,10 @@
 
 ## Talk: "Theory, Practice and Future of LLMs" (Transformers Explained)
 
+### If software is eating the world and
+### AI is eating software then
+### Transformers are eating AI
+
 ![One AI Model to Rule Them All: Transformers](one_ai_model_to_rule_transformers_20231103.jpg)
 "One AI Model to Rule Them All" - J.R.R. Transformer
 
@@ -11,11 +15,7 @@
 * (Slides and Links below)
 
 
-> If software is eating the world and
-> AI is eating software then
-> Transformers are eating AI
-
-### <b>Why Focus on Transformer Architecture?</b>
+## <b>Why Focus on Transformer Architecture?</b>
 
 The 2017 <a href="https://arxiv.org/abs/1706.03762">'Attention is all you need'</a> paper by Google was the precedent that led to the November, 30th 2022 launch of ChatGPT. For the first time, anyone could seamlessly and directly interact via natural language with state of the art AI Large Language Models. Over this period of time and continuing to today, we've witnessed rapidly accelerating AI research, roll-out and public awareness from the <a href="https://www.artificial-intelligence-act.com/">EU AI Act</a> to the <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/">Biden Whitehouse Executive Order concerning AI regulation</a>. Concurrently, Large Language Models are also increasing in performance, spawning many capable small open source LLMs and becoming multimodal (Text, Image, Video, Audio, Time Series, etc). A new computational paradigm is forming around these Large Multimodal Models (LMMs) with formalized professional programming ecosystems like <a href="https://github.com/microsoft/semantic-kernel">Microsoft's Semantic Kernel</a> to LMMs embodied in open ended robotic systems like <a href="https://palm-e.github.io/">Google PaLM-e</a>.
 
