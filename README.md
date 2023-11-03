@@ -1,7 +1,6 @@
-# "Theory, Practice and Future of LLMs" (Transformers Explained)
+# <b>"Theory, Practice and Future of LLMs"</b>
 
 ![If Sofware is eating the world and AI is eating Software then Transformers are eating AI](quote_ifsoftware_transformers_20231103.png)
-
 
 ![One AI Model to Rule Them All: Transformers](one_ai_model_to_rule_transformers_20231103.jpg)
 "One AI Model to Rule Them All" - J.R.R. Transformer
